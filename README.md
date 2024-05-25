@@ -1,4 +1,4 @@
-# railway_timetable
+# railway_timetable:
 This is a basic train schedule app made with Node.js. It's designed to be a sample project for hands-on learning.
 Running the app:
 
@@ -30,10 +30,10 @@ Start the app: Run ./gradlew npm_start in the terminal.
 Use the app: Open a web browser and go to http://localhost:8080.
 This simple app helps you practice building and running a Node.js application with Gradle, a powerful build tool.
 
-# Output on screen
+# Output on screen:
 ![Screenshot 2024-05-19 152121](https://github.com/1998-pratikshap/railway_timetable/assets/80257476/1bd91a2f-3563-4c75-9b7d-76b0e7cf8774)
 
-# Build Process 
+# Build Process:
 ![Screenshot 2024-05-25 234701](https://github.com/1998-pratikshap/railway_timetable/assets/80257476/5cc1db13-ab80-469f-92de-ebe3dcfe7d82)
 
 
