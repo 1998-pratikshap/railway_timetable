@@ -29,3 +29,6 @@ Build the app: Run ./gradlew build in the terminal.
 Start the app: Run ./gradlew npm_start in the terminal.
 Use the app: Open a web browser and go to http://localhost:8080.
 This simple app helps you practice building and running a Node.js application with Gradle, a powerful build tool.
+![Screenshot 2024-05-19 152121](https://github.com/1998-pratikshap/railway_timetable/assets/80257476/1bd91a2f-3563-4c75-9b7d-76b0e7cf8774)
+
+
